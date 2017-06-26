@@ -1,0 +1,7 @@
+*.pyc
+.DS_Store
+.project
+_config.py
+*_secret.*
+*.db
+.idea
